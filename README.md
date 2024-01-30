@@ -33,10 +33,6 @@ MyWeatherApp is a weather comparison web application built with Django and Pytho
 
 Contributions are welcome! If you find any issues or have suggestions, please open an issue or create a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 Feel free to customize this template based on the specific details and structure of your project. Add any additional sections or information that you think would be helpful for users or contributors.
